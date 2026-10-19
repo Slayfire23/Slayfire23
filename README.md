@@ -1,16 +1,70 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saul Diaz
-==================================================================================================================================
+<div align="center">
 
-Full Stack Developer
---------------------
+# SAUL DIAZ
+### Software Developer · Frontend & Full Stack
 
-* 🌍  I'm based in Hammond, Indiana
-* ✉️  You can contact me at [slayfire11@ymail.com](mailto:slayfire11@ymail.com)
+**Building practical software for real-world problems**
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9E9?style=for-the-badge&logo=googlechrome&logoColor=050B10)](https://slayfire23.github.io/Portfolio1/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-263C46?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-diaz-a014a7412/)
+[![Email](https://img.shields.io/badge/EMAIL-263C46?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Slayfire11@ymail.com)
+[![Resume](https://img.shields.io/badge/RESUME-9EAAB0?style=for-the-badge&logo=googledrive&logoColor=050B10)](https://drive.google.com/file/d/1gXPaANsdFWn13MGVePksnew_lxJ_prnG/view?usp=drivesdk)
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/Slayfire23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/saul-diaz23/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
+
+## About me
+
+I'm a software developer focused on **frontend and full-stack development**. I enjoy turning complicated workflows into intuitive tools using **React, Next.js, TypeScript, and PostgreSQL**.
+
+Before transitioning into software, I worked in manufacturing operations and team leadership, where I learned to solve practical problems, collaborate across teams, and understand how people use systems every day. I also gained experience building responsive user-facing features during a frontend engineering internship.
+
+📍 Hammond, Indiana · 🌐 [Explore my portfolio](https://slayfire23.github.io/Portfolio1/)
+
+## Featured projects
+
+### 🏭 [SDM Steel](https://sdm-steel.vercel.app/)
+**Manufacturing operations platform**
+
+A full-stack application designed to make raw materials, finished goods, and sales information easier to access and manage. Features include role-based workflows and end-to-end testing.
+
+**Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Playwright · Docker · GitHub Actions
+
+[Live app ↗](https://sdm-steel.vercel.app/) · [Source code ↗](https://github.com/Slayfire23/SDM-Steel)
+
+### 🗂️ [CareerOS](https://career-os-flax-chi.vercel.app)
+**Career organization platform**
+
+A full-stack application for organizing professional experience, technical skills, and career information in one place.
+
+**Stack:** Next.js · React · TypeScript · PostgreSQL · Prisma
+
+[Live app ↗](https://career-os-flax-chi.vercel.app) · [Source code ↗](https://github.com/Slayfire23/CareerOS)
+
+### 🧠 [Full Stack Academy](https://full-stack-academy-vert.vercel.app/login)
+**Adaptive technical learning platform**
+
+An interactive learning app with a **168-question bank**, spaced repetition, progress tracking, and targeted practice for weaker topics.
+
+**Stack:** TypeScript · PostgreSQL · Prisma · Docker · Automated testing
+
+[Live app ↗](https://full-stack-academy-vert.vercel.app/login) · [Source code ↗](https://github.com/Slayfire23/Full-Stack-Academy)
+
+## Tech stack
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS
+
+**Backend & data:** Node.js · PostgreSQL · Prisma
+
+**Testing & delivery:** Playwright · Docker · GitHub Actions · Git · Vercel · AWS
+
+## Let's connect
+
+I'm interested in opportunities to build useful, reliable software and keep growing as a developer.
+
+**[Portfolio](https://slayfire23.github.io/Portfolio1/) · [LinkedIn](https://www.linkedin.com/in/saul-diaz-a014a7412/) · [Email](mailto:Slayfire11@ymail.com) · [Resume](https://drive.google.com/file/d/1gXPaANsdFWn13MGVePksnew_lxJ_prnG/view?usp=drivesdk)**
+
+---
+
+<div align="center"><sub>Built with curiosity, persistence, and a focus on solving real problems.</sub></div>
