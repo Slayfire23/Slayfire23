@@ -53,11 +53,17 @@ An interactive learning app with a **168-question bank**, spaced repetition, pro
 
 ## Tech stack
 
+**Languages:** Python · TypeScript · JavaScript · SQL
+
 **Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS
 
-**Backend & data:** Node.js · PostgreSQL · Prisma
+**Backend & data:** Node.js · REST APIs · PostgreSQL · Prisma
 
 **Testing & delivery:** Playwright · Docker · GitHub Actions · Git · Vercel · AWS
+
+**AI engineering (hands-on coursework):** Python AI API integration · RAG · Embeddings & vector search · AI agents & tool calling · MCP · Introductory model fine-tuning
+
+I'm expanding my full-stack skills through hands-on AI engineering training, including Python, retrieval-augmented generation, agent workflows, and model integration. These are coursework skills I'm working toward applying in my projects.
 
 ## Let's connect
 
