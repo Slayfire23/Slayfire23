@@ -18,7 +18,7 @@
 
 I'm a software developer focused on **frontend and full-stack development**. I enjoy turning complicated workflows into intuitive tools using **React, Next.js, TypeScript, and PostgreSQL**.
 
-Before transitioning into software, I worked in manufacturing operations and team leadership, where I learned to solve practical problems, collaborate across teams, and understand how people use systems every day. I also gained experience building responsive user-facing features during a frontend engineering internship.
+Before transitioning into software, I worked in manufacturing operations and team leadership, where I learned to solve practical problems, collaborate across teams, and understand how people use systems every day. I also gained experience building responsive user-facing features through frontend internships, including improving mobile layouts, page performance, and contact-form spam prevention at Calico Media.
 
 📍 Hammond, Indiana · 🌐 [Explore my portfolio](https://slayfire23.github.io/Portfolio1/)
 
@@ -34,11 +34,11 @@ A full-stack application designed to make raw materials, finished goods, and sal
 [Live app ↗](https://sdm-steel.vercel.app/) · [Source code ↗](https://github.com/Slayfire23/SDM-Steel)
 
 ### 🗂️ [CareerOS](https://career-os-flax-chi.vercel.app)
-**Career organization platform**
+**Full-stack career management platform**
 
-A full-stack application for organizing professional experience, technical skills, and career information in one place.
+Built and deployed a career management application with saved jobs, structured profiles, job-requirement reviews, rules-based matching, and human-approved assessments. Developed Python-based AI integration experiments; paid AI features and AI-powered matching remain disabled in production. Added automated tests, CI/CD workflows, and database row-level security.
 
-**Stack:** Next.js · React · TypeScript · PostgreSQL · Prisma
+**Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · Supabase · Python (AI experiments) · Playwright · GitHub Actions · Vercel
 
 [Live app ↗](https://career-os-flax-chi.vercel.app) · [Source code ↗](https://github.com/Slayfire23/CareerOS)
 
